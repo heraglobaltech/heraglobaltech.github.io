@@ -1,7 +1,0 @@
----
-layout: default
-img:
-category: updates
-title: News
-description: Hera News
----
