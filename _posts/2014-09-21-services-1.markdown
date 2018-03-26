@@ -1,8 +1,0 @@
----
-layout: default
-img: filler_image.png
-category: Services
-title: Introducing 'Autonomous'
-description: Autonomous |
----
-  When one is scared or afraid, the body automatically responds with an increase in heart rate, pulse, and respiration, all functioning to tell the brain they are in danger. Known as the fight or flight response, this condition is universal across all humans. Autonomous, worn inconspicuously as a patch on the body, monitors these physiologic responses in real time. When fight or flight conditions present, Autonomous communicates to the identified contacts that help is needed with the wearer's location.
