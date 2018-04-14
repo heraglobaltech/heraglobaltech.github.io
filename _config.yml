@@ -4,13 +4,13 @@
 
 url: http://www.heraglobaltech.com
 title: Hera Global Tech
-email: bradyasheehan@gmail.com
+email: info@HeraGlobalTech.com
 author: Brady Sheehan
-description: > # "Write an awesome description for your new site here. 
+description: > 
   Hera Global Tech is a biotechnology company with a focus on personal health and safety solutions
   using cutting edge sensors and machine learning technologies.
 copyright: 'Copyright &copy; 2018 Hera Global Tech, inc. All Rights Reserved.'
-# credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+# credits: 'info@HeraGlobalTech.com'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -29,3 +29,5 @@ social:
     url: https://twitter.com/hera_globaltech
   - title: linkedin
     url: https://www.linkedin.com/company/13463389/
+  - title: instagram
+    url: http://instagram.com/hera_globaltech
