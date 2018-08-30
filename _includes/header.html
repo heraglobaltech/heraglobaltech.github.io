@@ -16,9 +16,6 @@
             <ul class="nav navbar-nav navbar-right">  
             	<li>
                     <a class="page-scroll" href="#about">About</a>
-                </li>            
-                <li>
-                    <a class="page-scroll" href="#contact">Contact</a>
                 </li>
                 {% for post in site.posts reversed %}
                     {% if post %}
@@ -27,7 +24,10 @@
                         </li>
                     {% endif %}
 
-                {% endfor %}
+                {% endfor %}            
+                <li>
+                    <a class="page-scroll" href="#contact">Contact</a>
+                </li>
 
             </ul>
         </div>
