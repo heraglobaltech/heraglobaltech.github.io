@@ -21,14 +21,12 @@ repository: heraglobaltech/heraglobaltech.github.io
 markdown: kramdown
 permalink: pretty
 
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
-
 social:
-  - title: twitter
+  - title: twitter 
     url: https://twitter.com/hera_globaltech
-  - title: linkedin
+  - title: linkedin 
     url: https://www.linkedin.com/company/13463389/
-  - title: instagram
+  - title: instagram 
     url: http://instagram.com/hera_globaltech
+  - title: vimeo 
+    url: https://vimeo.com/heraglobaltech
