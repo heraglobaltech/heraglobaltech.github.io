@@ -24,4 +24,4 @@ Running jekyll server locally use
 
 `bundle exec jeckyll build`
 
-`bundle exec jeckyll serve`
+`bundle exec jeckyll serve --watch`
