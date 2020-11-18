@@ -22,6 +22,6 @@ Please name branches reasonably and test your PR before opening it. Descriptions
  
 Running jekyll server locally use
 
-`bundle exec jeckyll build`
+`bundle exec jekyll build`
 
-`bundle exec jeckyll serve --watch`
+`bundle exec jekyll serve --watch`
